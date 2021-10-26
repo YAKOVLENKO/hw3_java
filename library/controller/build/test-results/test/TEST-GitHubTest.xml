@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GitHubTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-10-26T01:07:28" hostname="ayakovlenko-ASUS-EXPERTBOOK-P5440FA-P5440FA" time="0.04">
+  <properties/>
+  <testcase name="check_empty_chell" classname="GitHubTest" time="0.01"/>
+  <testcase name="test_check_position" classname="GitHubTest" time="0.03"/>
+  <system-out><![CDATA[0
+Book(name=Book1, author=Author(name=Author1))
+1
+Book(name=Book2, author=Author(name=Author2))
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

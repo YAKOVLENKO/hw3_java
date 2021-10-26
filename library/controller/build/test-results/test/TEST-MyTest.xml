@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-26T01:07:28" hostname="ayakovlenko-ASUS-EXPERTBOOK-P5440FA-P5440FA" time="0.482">
+  <properties/>
+  <testcase name="CheckSmallLibrary" classname="MyTest" time="0.482"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

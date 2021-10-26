@@ -1,0 +1,5 @@
+0
+.Book(name=Book1, author=Author(name=Author1))
+1
+.Book(name=Book2, author=Author(name=Author2))
+OK
